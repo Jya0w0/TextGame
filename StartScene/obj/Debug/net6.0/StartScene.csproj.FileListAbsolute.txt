@@ -1,0 +1,14 @@
+D:\Coding\C#\TeamSparta\TextGame\StartScene\bin\Debug\net6.0\StartScene.exe
+D:\Coding\C#\TeamSparta\TextGame\StartScene\bin\Debug\net6.0\StartScene.deps.json
+D:\Coding\C#\TeamSparta\TextGame\StartScene\bin\Debug\net6.0\StartScene.runtimeconfig.json
+D:\Coding\C#\TeamSparta\TextGame\StartScene\bin\Debug\net6.0\StartScene.dll
+D:\Coding\C#\TeamSparta\TextGame\StartScene\bin\Debug\net6.0\StartScene.pdb
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.AssemblyInfoInputs.cache
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.AssemblyInfo.cs
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.dll
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\refint\StartScene.dll
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.pdb
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\StartScene.genruntimeconfig.cache
+D:\Coding\C#\TeamSparta\TextGame\StartScene\obj\Debug\net6.0\ref\StartScene.dll
