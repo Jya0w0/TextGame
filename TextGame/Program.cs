@@ -85,7 +85,8 @@ namespace TextGame
             Console.WriteLine("[아이템 목록]");
             Console.Write("-" + "무쇠갑옷\t");
             Console.WriteLine("| 방어력 " + " | 무쇠로 만들어져 튼튼한 갑옷입니다.");
-            Console.WriteLine($"방어력 : {player.Def}");
+            Console.Write("-" + "낡은 검\t");
+            Console.WriteLine("| 공격력 " + " | 쉽게 볼 수 있는 낡은 검 입니다.");
             Console.WriteLine($"체력 : {player.Hp}");
             Console.WriteLine($"Gold : {player.Gold} G");
             Console.WriteLine();
