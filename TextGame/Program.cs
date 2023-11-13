@@ -69,7 +69,13 @@ namespace TextGame
             Console.Title = "= Sparta Village =";
 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("스파르타 마을에 오신 여러분 환영합니다.\n이곳에서 던전으로 들어가기 전 활동을 할 수 있습니다.");
+            string txt = "스파르타 마을에 오신 여러분 환영합니다.\n이곳에서 던전으로 들어가기 전 활동을 할 수 있습니다.";
+            // 한글자씩 출력
+            for (int i = 0; i < txt.Length; i++)
+            {
+                Console.Write(txt[i]);
+                Thread.Sleep(100);
+            }
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("1. 상태 보기\n2. 인벤토리\n0. 메인화면");
@@ -77,13 +83,6 @@ namespace TextGame
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("원하시는 행동을 입력해주세요.");
             Console.Write(">> ");
-
-            // 한글자씩 출력
-            //float outputTime = 0.2f;
-            //for (int i = 0; i < startTxt.Length; i++)
-            //{
-            //    Console.Write(startTxt[i]);
-            //}
 
             int input = CheckValidInput(0, 2);
             switch (input)
