@@ -12,3 +12,6 @@ D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\refint\TextGame.dll
 D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\TextGame.pdb
 D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\TextGame.genruntimeconfig.cache
 D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\ref\TextGame.dll
+D:\Coding\C#\TeamSparta\TextGame\TextGame\bin\Debug\net6.0\ConsoleTables.dll
+D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\TextGame.csproj.AssemblyReference.cache
+D:\Coding\C#\TeamSparta\TextGame\TextGame\obj\Debug\net6.0\TextGame.csproj.CopyComplete

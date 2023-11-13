@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I3/ZZ6rbEHC5ObZM/ebH9kCQiM9u91M5lDvcvkn73fpSzpiGNCvCb9JtFARuWbskDjy5XgIWbj28h53B0/acgg==",
+  "dgSpecHash": "CdX4yZ1jOgvQvMVWU+JDckeJr0EX9gLpO87NuE0vtx5LwDJc/RFNOfb5NlJLFv7DGZIMEF4d0B0EGDBo4lOoeg==",
   "success": true,
   "projectFilePath": "D:\\Coding\\C#\\TeamSparta\\TextGame\\TextGame\\TextGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sk\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
   "logs": []
 }
